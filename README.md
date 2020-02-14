@@ -1,6 +1,6 @@
 ## customerList
 
-# react, redux-thunk, sass, webpack, react-bootstrap, font-awesome
+# react, redux-thunk, sass, webpack, font-awesome
 
 ## Overview
 * Customers List
